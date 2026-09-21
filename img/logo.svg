@@ -1,0 +1,11 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Logo EXTINMEX">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#facc15"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="28" fill="#0f172a"/>
+  <path d="M30 28h30v14H44v16h14v14H44v16h16v14H30V28zm42 0h18c12 0 20 8 20 20 0 10-6 17-16 19l16 23h-16l-13-19h-6v19h-14V28zm14 14h5c7 0 11-3 11-9 0-5-4-8-11-8h-5v17z" fill="url(#g1)"/>
+  <circle cx="92" cy="92" r="8" fill="#f8fafc" opacity="0.9"/>
+</svg>
